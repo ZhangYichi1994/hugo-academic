@@ -6,9 +6,7 @@ title: Nelson Bighetti
 superuser: true
 
 # Role/position/tagline
-role: 
-- PhD Candidate in Central South University
-- Visiting Student in University of Victoria
+role: PhD Candidate in Central South University & Visiting Student in University of Victoria
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,7 +16,7 @@ organizations:
   url: https://www.uvic.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Cyber-Physical Systems, Complex Networks, Artificial Intelligence and Data Mining.
 
 # Interests to show in About widget
 interests:
