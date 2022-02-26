@@ -33,10 +33,10 @@ education:
     year: 2017-Now
   - course: Visiting PhD student
     institution: University of Victoria
-    year: 2022
+    year: 2021-2022
   - course: BSc in Automation
     institution: Central South University
-    year: 2016
+    year: 2012-2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
