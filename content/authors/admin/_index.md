@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yichi Zhang 张亦弛
+title: Yichi Zhang - 张亦弛
 
 # Is this the primary user of the site?
 superuser: true
@@ -73,8 +73,7 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yichi Zhang is a PhD candidate of automation at Central South University. His research interesets include Cyber-Physical Systems, Complex Networks, Artificial Intelligence, and Data Mining. He received a bachelor's degree in automation from Central South University, Changsha, China, in 2016. He is currently a PhD candidate at Central South University. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
