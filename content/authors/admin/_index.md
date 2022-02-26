@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Central South University
-    year: 2012
+    year: 2017-Now
   - course: Visiting PhD student
     institution: University of Victoria
     year: 2022
