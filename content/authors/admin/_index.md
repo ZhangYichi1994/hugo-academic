@@ -6,7 +6,9 @@ title: Nelson Bighetti
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Central South University
+role: 
+- PhD Candidate in Central South University
+- Visiting Student in University of Victoria
 
 # Organizations/Affiliations to show in About widget
 organizations:
