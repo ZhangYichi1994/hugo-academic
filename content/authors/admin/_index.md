@@ -1,20 +1,19 @@
 ---
 # Display name
-title: Yichi Zhang 张亦弛
+title: Nelson Bighetti
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Central South University
-role: Visiting Ph.D. student in University of Victoria
+role: PhD Candidate in Central South University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- [{name: Central South University,
-  url: https://www.csu.edu.cn/},
-  {name: name: University of Victoria,
-  url: https://www.uvic.ca/}]
+- name: Central South University
+  url: https://www.csu.edu.cn/
+- name: Uvniversity of Victoria
+  url: https://www.uvic.ca/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
