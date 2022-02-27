@@ -73,7 +73,9 @@ email: ""
 highlight_name: true
 ---
 
-Yichi Zhang is a PhD candidate of automation at Central South University. His research interesets include Cyber-Physical Systems, Complex Networks, Artificial Intelligence, and Data Mining. He received a bachelor's degree in automation from Central South University, Changsha, China, in 2016. He is currently a PhD candidate at Central South University. 
+Yichi Zhang is a PhD candidate of automation at Central South University. His research interesets include Cyber-Physical Systems, Complex Networks, Artificial Intelligence, and Data Mining.
+
+Yichi Zhang received a bachelor's degree in automation from Central South University, Changsha, China, in 2016. He is currently a PhD candidate at Central South University. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ZhangYichi_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
