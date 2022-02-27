@@ -1,6 +1,9 @@
 ---
 title: "Complex networks identification using Bayesian model with independent Laplace prior"
 
+event: Journal Publication
+event_url: []
+
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
