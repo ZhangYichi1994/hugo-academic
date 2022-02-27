@@ -40,4 +40,4 @@ design:
   view: 1
 ---
 
-* 2021 I candidate the IEEE RASSE conference in Shanghai. Published ""
+* 12 / 2021: I candidate the IEEE RASSE conference in Shanghai. Published ""
