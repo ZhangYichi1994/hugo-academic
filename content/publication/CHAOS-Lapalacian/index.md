@@ -39,7 +39,7 @@ abstract: Identification of complex networks from limited and noise contaminated
 
 
 # Summary. An optional shortened abstract.
-summary: A robust network identification method with Bayesian Model. The results is much better than the previous study.
+summary: Chaos&#58 An Interdisciplinary Journal of Nonlinear Science
 
 tags: [Bayesian model, Games, Optimization, Identification, Complex networks]
 
