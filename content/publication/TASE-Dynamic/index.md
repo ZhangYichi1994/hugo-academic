@@ -35,7 +35,7 @@ publication_short: In *TASE*
 abstract: Industrial cyber-physical systems (ICPSs) are deployed in many high-value facilities recently, and the monitoring of ICPS is more and more important. However, the prerequisite of ICPS monitoring is how to obtain an accurate network structure. In addition, the structure of ICPS may change over time and the observations data are limited and noisy. These situations make the ICPS network structure identification more difficult. In this article, we proposed the algorithm of temporal network identification from sparse data (ATNISD) to address these two issues simultaneously. First, we established the temporal network analysis model from the aspect of state equation and observation equation. Then, we analyze the characteristics of temporal networks in both time domain and space domain and propose a general framework of temporal networks structure identification, which is a combinatorial optimization problem. To improve the accuracy and alleviate the computational complexity, we decompose the combinatorial problem into small independent simple problems, which can be solved efficiently. The performance of the proposed algorithm is verified on synthetic evolutionary game dynamics on both homogeneous and heterogeneous temporal networks. The experimental results show that the proposed method can efficiently solve the problem of temporal networks structure identification from sparse data.
 
 # Summary. An optional shortened abstract.
-summary: IEEE Transactions on Automation Science and Engineering
+summary: IEEE Transactions on Automation Science and Engineering (2021)
 
 tags: [Mathematical model, Games, Optimization, Evolution (biology), Data models, Complex networks, Task analysis]
 
