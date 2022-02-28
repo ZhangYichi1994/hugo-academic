@@ -30,7 +30,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In Physica A&#58 Statistical Mechanics and its Applications 509, 234-240
-publication_short: In Physica A
+publication_short: In *Physica A*
 
 abstract: In reality, social diversity is omnipresent. Motivated by the fact that different agents may get different perceptions for the same social dilemma, we extended the concept of heterogeneous perceptions to dynamically varying network and investigate the impact on the evolution of cooperation in this paper. Here, the heterogeneous perceptions of different agents are modeling by spatial multigames, which are characterized by two different social dilemmas&#58 the traditional prisoners’ dilemma and the snowdrift game. The dynamic network, on the other hands, is a network whose link weights are coevolved with game strategy. By conducting large-scale Monte Carlo simulations, we draw a conclusion that for small temptation a large value of network evolution strength warrants an optimal resolution of social dilemma; while for large temptation an intermediate value of network evolution strength is the most beneficial for the evolution of cooperation. In addition, numerical simulations also indicate that the higher the value of the proportion of the snowdrift game is, the more widespread cooperative behavior becomes except for some small fluctuations. Taken together, our results support that the agents with heterogeneous perceptions in dynamic network are strong facilitators of cooperation promotion, which will provide a new insight for the further research.
 

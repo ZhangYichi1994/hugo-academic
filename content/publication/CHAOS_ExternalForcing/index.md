@@ -30,7 +30,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In CHAOS
-publication_short: In CHAOS
+publication_short: In *CHAOS*
 
 abstract: How did cooperation evolve in a complex network is an intensely investigated problem. Many mechanisms that promote cooperation have been proposed within the framework of the evolutionary game theory. Motivated by the fact that people in society or even a certain group are often controlled by a variety of simple rules, we present an external forcing mechanism to analyze the underlying reasons of widespread cooperation in this paper. In detail, we model the agents on a simple regular network, on which the learning method is controlled by external forcing mechanism, and prisoner’s dilemma has been applied to describe the interaction of agents. By conducting large-scale Monte Carlo simulations, we can easily draw a conclusion that this mechanism can promote cooperation efficiently. In addition, we also show that the proposed mechanism is effective for the cooperation promotion for other game models, such as snowdrift game and multigames. Taken together, the mechanism of external forcing on the evolutionary game is a strong promoter of cooperation even under a severe temptation condition, which has a practical significance and will provide new insight into the analysis and control of cooperative strategy in the complex network for the further research.
 
