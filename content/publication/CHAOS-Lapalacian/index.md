@@ -39,7 +39,7 @@ abstract: Identification of complex networks from limited and noise contaminated
 
 
 # Summary. An optional shortened abstract.
-summary: Chaos&#58 An Interdisciplinary Journal of Nonlinear Science 31 (1), 013107
+summary: Chaos&#58 An Interdisciplinary Journal of Nonlinear Science
 
 tags: [Bayesian model, Games, Optimization, Identification, Complex networks]
 
