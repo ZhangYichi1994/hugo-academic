@@ -40,14 +40,14 @@ summary: Chaos&#58 An Interdisciplinary Journal of Nonlinear Science 28 (9), 093
 tags: [Complex Networks, Games, Cooperation Rate]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://aip.scitation.org/doi/abs/10.1063/1.5040714'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
