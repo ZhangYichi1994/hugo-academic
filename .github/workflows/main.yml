@@ -33,7 +33,7 @@ jobs:
       #     publish_branch: master
 
       - name: Publish
-          uses: s0/git-publish-subdir-action@master
+          uses: s0/git-publish-subdir-action@develop
           env:
             REPO: git@github.com:MrZhangCSU/hugo-website-compiled-zyc.git
             BRANCH: master
