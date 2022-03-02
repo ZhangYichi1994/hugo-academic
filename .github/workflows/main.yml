@@ -21,13 +21,21 @@ jobs:
         # docs: https://gohugo.io/hugo-pipes/minification/
         run: hugo
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          personal_token: ${{ secrets.TOKEN }}
-          external_repository: MrZhangCSU/hugo-website-compiled-zyc
-          publish_dir: ./public
-          #   keep_files: true
-          user_name: <username>
-          user_email: <username@email.com>
-          publish_branch: master
+      # - name: Deploy
+      #   uses: peaceiris/actions-gh-pages@v3
+      #   with:
+      #     personal_token: ${{ secrets.TOKEN }}
+      #     external_repository: MrZhangCSU/hugo-website-compiled-zyc
+      #     publish_dir: ./public
+      #     #   keep_files: true
+      #     user_name: <username>
+      #     user_email: <username@email.com>
+      #     publish_branch: master
+
+      - name: Publish
+          uses: s0/git-publish-subdir-action@master
+          env:
+            REPO: https://github.com/MrZhangCSU/hugo-website-compiled-zyc
+            BRANCH: master
+            FOLDER: public
+            SSH_PRIVATE_KEY: ${{ secrets.publish }}
