@@ -35,7 +35,7 @@ jobs:
       - name: Publish
           uses: s0/git-publish-subdir-action@master
           env:
-            REPO: https://github.com/MrZhangCSU/hugo-website-compiled-zyc
+            REPO: git@github.com:MrZhangCSU/hugo-website-compiled-zyc.git
             BRANCH: master
             FOLDER: public
             SSH_PRIVATE_KEY: ${{ secrets.publish }}
