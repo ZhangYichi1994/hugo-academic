@@ -22,11 +22,12 @@ jobs:
       - name: Update theme
         # (Optional)If you have the theme added as submodule, you can pull it and use the most updated version
         run: git submodule update --init --recursive
+      
+      - run: rm -rf ~/TMPDIR/hugo_cache/
 
       - name: Update theme with hugo
         run: hugo mod get -u
-        
-      - run: rm -rf ~/TMPDIR/hugo_cache/
+
 
       - name: Build
         # remove --minify tag if you do not need it
