@@ -41,4 +41,3 @@ design:
 ---
 
 * 12 / 2021: I candidate the IEEE RASSE conference in Shanghai. Published ["False Data Injection Attack Testbed of Industrial Cyber-Physical Systems of Process Industry and A Detection Application"](./publication/ieee_rasse1)
-<!-- (https://doi.org/10.1109/RASSE53195.2021.9686839) -->
