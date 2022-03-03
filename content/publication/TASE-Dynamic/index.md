@@ -17,7 +17,7 @@ authors:
 # - "Equal contribution"
 
 date: "2021-03-10T00:00:00Z"
-doi: "https://doi.org/10.1109/TASE.2021.3062356"
+doi: "10.1109/TASE.2021.3062356"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-03-10T00:00:00Z"

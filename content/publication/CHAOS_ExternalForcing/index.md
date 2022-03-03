@@ -17,7 +17,7 @@ author_notes:
 - "Equal contribution"
 
 date: "2018-08-13T00:00:00Z"
-doi: "https://doi.org/10.1063/1.5040714"
+doi: "10.1063/1.5040714"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-08-13T00:00:00Z"

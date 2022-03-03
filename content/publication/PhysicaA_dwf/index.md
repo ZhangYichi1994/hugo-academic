@@ -17,7 +17,7 @@ author_notes:
 - "Equal contribution"
 
 date: "2020-07-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.physa.2019.123605"
+doi: "10.1016/j.physa.2019.123605"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-01-01T00:00:00Z"

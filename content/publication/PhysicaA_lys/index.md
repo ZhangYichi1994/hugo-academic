@@ -17,7 +17,7 @@ authors:
 # - "Equal contribution"
 
 date: "2018-07-01T00:00:00Z"
-doi: ""
+doi: "10.1016/j.physa.2018.06.043"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-01-01T00:00:00Z"
