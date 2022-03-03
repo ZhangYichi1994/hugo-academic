@@ -43,3 +43,4 @@ jobs:
           BRANCH: master
           FOLDER: public
           SSH_PRIVATE_KEY: ${{ secrets.PUBLISH }}
+          
