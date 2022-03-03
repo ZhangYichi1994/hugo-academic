@@ -23,10 +23,13 @@ jobs:
         # (Optional)If you have the theme added as submodule, you can pull it and use the most updated version
         run: git submodule update --init --recursive
       
-      - run: rm -rf ~/TMPDIR/hugo_cache/
+      - run: hugo mod clean
+      - run: hugo mod get -u ./...
+      - run: hugo server
+      - run: hugo server --cacheDir ./cache/
 
-      - name: Update theme with hugo
-        run: hugo mod get -u
+      # - name: Update theme with hugo
+        # run: hugo mod get -u
 
 
       - name: Build
