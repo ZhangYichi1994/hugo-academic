@@ -23,13 +23,15 @@ jobs:
         # (Optional)If you have the theme added as submodule, you can pull it and use the most updated version
         run: git submodule update --init --recursive
 
-      # - name: Update theme with hugo
-      #   run: hugo mod -u
+      - name: Update theme with hugo
+        run: hugo mod get -u
+        
+      - run: rm -rf ~/TMPDIR/hugo_cache/
 
       - name: Build
         # remove --minify tag if you do not need it
         # docs: https://gohugo.io/hugo-pipes/minification/
-        run: hugo --minify
+        run: hugo --minify -b "https://studentweb.uvic.ca/~zhangyichi"
 
       # - name: Deploy
       #   uses: peaceiris/actions-gh-pages@v3
