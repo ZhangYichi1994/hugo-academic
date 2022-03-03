@@ -42,4 +42,4 @@ jobs:
           REPO: git@github.com:MrZhangCSU/hugo-website-compiled-zyc.git
           BRANCH: master
           FOLDER: public
-          SSH_PRIVATE_KEY: ${{ secrets.PUBLISH }}
+          SSH_PRIVATE_KEY: ${{ secrets.PUBLISH2 }}
