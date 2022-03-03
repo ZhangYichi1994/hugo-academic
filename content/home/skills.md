@@ -26,12 +26,21 @@ feature:
   name: Statistics
 - description: 80%
   icon: pen-ruler
-  icon_pack: fas
+  icon_pack: "custom"
   name: Mathematical Modeling
+# - description: 50%
+#   icon: person-walking
+#   icon_pack: fab
+#   name: Chinese Kung Fu
 - description: 50%
-  icon: person-walking
-  icon_pack: fab
-  name: Chinese Kung Fu
+  icon: "person-walking"
+  icon_pack: "custom"
+  name: "Chinese Kung Fu"
+
+#- icon: "your-custom-icon-name"
+#  icon_pack: "custom"
+#  name: "Surfing"
+#  description: "90%"
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
