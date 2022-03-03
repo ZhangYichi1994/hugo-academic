@@ -22,6 +22,7 @@ jobs:
       - name: Build
         # remove --minify tag if you do not need it
         # docs: https://gohugo.io/hugo-pipes/minification/
+        run: hugo mod -u
         run: hugo   
 
       # - name: Deploy
@@ -36,7 +37,7 @@ jobs:
       #     publish_branch: master
       #   #   cname: example.com
 
-      
+
       # - name: Develop
       #   uses: s0/git-publish-subdir-action@develop
       #   env:
