@@ -14,7 +14,7 @@ authors:
 # author_notes:
 
 date: "2021-12-12T00:00:00Z"
-doi: "10.1109/RASSE53195.2021.9686839"
+doi: "10.1109/RASSE53195.2021.9686839" 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-12-12T00:00:00Z"
