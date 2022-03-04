@@ -32,10 +32,19 @@ feature:
 #   icon: person-walking
 #   icon_pack: fab
 #   name: Chinese Kung Fu
+- description: 90%
+  icon: shovel
+  icon_pack: fab
+  name: Data Mining
+- description: 
+  icon: drafting-compass
+  icon_pack: fab
+  name: unknown
 - description: 50%
-  icon: "person-walking"
-  icon_pack: "custom"
-  name: "Chinese Kung Fu"
+  icon: person-walking
+  icon_pack: custom
+  name: Chinese Kung Fu
+
 
 #- icon: "your-custom-icon-name"
 #  icon_pack: "custom"
