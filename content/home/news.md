@@ -40,6 +40,6 @@ design:
   view: 1
 ---
 
-* 06 / 2022: Article ["Intrusion Detection of Industrial Internet-of-Things Based on Reconstructed Graph Neural Networks"](./publication/TNSE_IntrusionDetction) published on [IEEE TNSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902)
+* 06 / 2022: Article ["Intrusion Detection of Industrial Internet-of-Things Based on Reconstructed Graph Neural Networks"](./publication/tnse_intrusiondetction) published on [IEEE TNSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902)
 
 * 12 / 2021: I candidate the IEEE RASSE conference in Shanghai. Published ["False Data Injection Attack Testbed of Industrial Cyber-Physical Systems of Process Industry and A Detection Application"](./publication/ieee_rasse1)
