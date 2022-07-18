@@ -39,7 +39,7 @@ experience:
     date_end: '2020-9-1'
     decription: Testbed Design and Algorithm Development
 
-  - title: Industrial Mechanism Model Library for Metallurgical Process Industry (工业互联网机理模型库)
+  - title: Industrial Mechanism Model Library for Metallurgical Process Industry
 
 
   - title: Research on Intelligent Recognition of XXX Network Abnormal Behavior
