@@ -39,24 +39,24 @@ experience:
     date_end: '2020-9-1'
     decription: Testbed Design and Algorithm Development
 
-  - title: Industrial Mechanism Model Library for Metallurgical Process Industry
+  # - title: Industrial Mechanism Model Library for Metallurgical Process Industry
 
 
-  - title: Research on Intelligent Recognition of XXX Network Abnormal Behavior
-    company: Central South University
-    company_url: 'www.csu.edu.cn'
-    location: Changsha, Hunan, China
-    date_start: '2020-7-1'
-    date_end: '2020-9-1'
-    decription: Testbed Design and Algorithm Development
+  # - title: Research on Intelligent Recognition of XXX Network Abnormal Behavior
+  #   company: Central South University
+  #   company_url: 'www.csu.edu.cn'
+  #   location: Changsha, Hunan, China
+  #   date_start: '2020-7-1'
+  #   date_end: '2020-9-1'
+  #   decription: Testbed Design and Algorithm Development
 
-  - title: Medicine Warehouse Inertial Navigation AGV
-    company: Central South University
-    company_url: 'www.csu.edu.cn'
-    location: Changsha, Hunan, China
-    date_start: '2017-6-1'
-    date_end: '2018-6-1'
-    decription: Program Framework Design and Vehicle Control
+  # - title: Medicine Warehouse Inertial Navigation AGV
+  #   company: Central South University
+  #   company_url: 'www.csu.edu.cn'
+  #   location: Changsha, Hunan, China
+  #   date_start: '2017-6-1'
+  #   date_end: '2018-6-1'
+  #   decription: Program Framework Design and Vehicle Control
   
   # - title: CEO
   #   company: GenCoin
