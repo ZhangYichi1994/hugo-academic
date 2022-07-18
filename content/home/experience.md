@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Experiences and Projects
 subtitle:
 
 # Date format for experience
@@ -30,6 +30,34 @@ experience:
     date_start: '2021-12-20'
     date_end: ''
     decription: Study Aboard
+
+  - title: Industrial Internet Innovation Application Platform for Process Industry
+    company: Central South University
+    company_url: 'www.csu.edu.cn'
+    location: Changsha, Hunan, China
+    date_start: '2020-7-1'
+    date_end: '2020-9-1'
+    decription: Testbed Design and Algorithm Development
+
+  - title: Industrial Mechanism Model Library for Metallurgical Process Industry (工业互联网机理模型库)
+
+
+  - title: Research on Intelligent Recognition of XXX Network Abnormal Behavior
+    company: Central South University
+    company_url: 'www.csu.edu.cn'
+    location: Changsha, Hunan, China
+    date_start: '2020-7-1'
+    date_end: '2020-9-1'
+    decription: Testbed Design and Algorithm Development
+
+  - title: Medicine Warehouse Inertial Navigation AGV
+    company: Central South University
+    company_url: 'www.csu.edu.cn'
+    location: Changsha, Hunan, China
+    date_start: '2017-6-1'
+    date_end: '2018-6-1'
+    decription: Program Framework Design and Vehicle Control
+  
   # - title: CEO
   #   company: GenCoin
   #   company_url: ''
