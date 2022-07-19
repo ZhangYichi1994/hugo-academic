@@ -29,10 +29,10 @@ interests:
 education:
   courses:
   - course: PhD in Control Theory and Engineering
-    institution: Central South University
+    institution: 'Central South University, SUPV: Chunhua Yang, IEEE Fellow'
     year: 2017-Now
   - course: Visiting PhD student
-    institution: University of Victoria
+    institution: 'University of Victoria, SUPV: Yang Shi, IEEE Fellow'
     year: 2021-2022
   - course: BSc in Automation
     institution: Central South University
