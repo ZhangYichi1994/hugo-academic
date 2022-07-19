@@ -31,9 +31,9 @@ experience:
     date_end: ''
     decription: Study Aboard
 
-  - title: Industrial Internet Innovation Application Platform for Process Industry
-    company: Central South University 
-    company_url: 'www.csu.edu.cn'
+  - title: MIIT - Industrial Internet Innovation Application Platform for Process Industry
+    company: Mnistry of Industry and Information Technology of the People's Republic of China 
+    company_url: 'wap.miit.gov.cn'
     company_logo: ''
     location: Changsha, Hunan, China
     date_start: '2019-07-01'
