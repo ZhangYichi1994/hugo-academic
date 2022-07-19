@@ -32,12 +32,12 @@ experience:
     decription: Study Aboard
 
   - title: Industrial Internet Innovation Application Platform for Process Industry
-    company: Central South University
+    company: Central South University 
     company_url: 'www.csu.edu.cn'
     company_logo: ''
     location: Changsha, Hunan, China
-    date_start: '2020-7-1'
-    date_end: '2020-9-1'
+    date_start: '2020-07-01'
+    date_end: '2020-09-01'
     decription: Testbed Design and Algorithm Development
 
   # - title: Industrial Mechanism Model Library for Metallurgical Process Industry
