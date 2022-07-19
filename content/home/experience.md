@@ -40,9 +40,6 @@ experience:
     date_end: '2021-07-01'
     decription: Algorithms and Applications Development
 
-  # - title: Industrial Mechanism Model Library for Metallurgical Process Industry
-
-
   - title: Research on Intelligent Recognition of XXX Network Abnormal Behavior
     company: Central South University
     company_url: 'www.csu.edu.cn'
