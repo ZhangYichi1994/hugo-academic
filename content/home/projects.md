@@ -1,4 +1,4 @@
-<!-- ---
+---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
@@ -72,4 +72,4 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 1
---- -->
+---
