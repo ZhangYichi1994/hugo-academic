@@ -36,8 +36,8 @@ experience:
     company_url: 'wap.miit.gov.cn'
     company_logo: ''
     location: Changsha, Hunan, China
-    date_start: '2019-07-01'
-    date_end: '2021-07-01'
+    date_start: '2019-01-01'
+    date_end: '2022-07-01'
     decription: Algorithms and Applications Development
 
   - title: Research on Intelligent Recognition of XXX Network Abnormal Behavior
