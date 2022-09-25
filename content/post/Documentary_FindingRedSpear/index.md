@@ -54,8 +54,8 @@ tags:
 - 开源
 
 categories:
-- Demo
-- 教程
+- Life
+- 生活
 ---
 
 ## Overview
