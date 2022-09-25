@@ -1,6 +1,6 @@
 ---
 title: Documentary about my own martial arts study broadcast on CCTV9. 
-subtitle: To be Master for One Day,  Finding Red Spear
+subtitle: To be Master for One Day,  Finding Red Spear (一日为师 - 寻枪)
 
 # Summary for listings and search engines
 summary: The first docuimentary of myself.
