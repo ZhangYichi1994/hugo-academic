@@ -50,5 +50,5 @@ The documentary link is: [here](https://tv.cctv.com/2022/09/24/VIDEyBbp6YPzIPm6P
 
 ## Extra Information
 
-If you are interested in Xingyiquan, you can check my youku channel, and Email me for video code. This is the link for [Wuxingquan](https://v.youku.com/v_show/id_XNDU1OTQxMzAyOA==.html) of my own. 
+If you are interested in Xingyiquan, you can check my youku channel, and Email me for video code. This is the link for [Wuxingquan(五行拳)](https://v.youku.com/v_show/id_XNDU1OTQxMzAyOA==.html) of my own. 
 
