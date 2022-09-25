@@ -28,7 +28,7 @@ experience:
     company_logo: ''
     location: Victoria, BC, Canada
     date_start: '2021-12-20'
-    date_end: ''
+    date_end: '2023-01-09'
     decription: Study Aboard
   # - title: CEO
   #   company: GenCoin
