@@ -33,32 +33,25 @@ authors:
 
 tags:
 - Life
-- 开源
+- 武术
 
 categories:
 - Life
 - 生活
 ---
 
-## Overview
+## Story
 
 It talks about my own study research of promote traditional martial art, [Xingyiquan](https://baike.baidu.com/item/%E5%BD%A2%E6%84%8F%E6%8B%B3/44041#:~:text=%E5%BD%A2%E6%84%8F%E6%8B%B3%EF%BC%8C%E5%8F%88%E7%A7%B0,%E5%90%88%EF%BC%8C%E6%89%8B%E4%B8%8E%E8%B6%B3%E5%90%88%E3%80%82). In old sayings, traditional kungfu is difficult to learn by one ownself from books or videos, because it is difficult to learn the key part of one action or one gesture without Master's guidance. I always want to use data science to record the precious traditional kungfu actions, and I know that this kind of data assets is better than books or videos because it provides a higher dimension to recognize one unique thing. Motion capture is a very hot topic in ACT games developments, and it has promoted many many good games. At a certain time, I led a small project and used inertial navigation sensors to calculate the motion trajectory of the human body and put them together to identify the entire human skeleton movement. It can provide detailed information for a person's movement, and it is easy to find the difference between two people who do the same action. Fortunately, I encountered an excellent documentary director who appreciated my thoughts, so we jointly presented this excellent short documentary.
 
-The documentary link is: [link](https://tv.cctv.com/2022/09/24/VIDEyBbp6YPzIPm6PHKLBvVr220924.shtml)
+## Documentary Link
 
+The documentary link is: [here](https://tv.cctv.com/2022/09/24/VIDEyBbp6YPzIPm6PHKLBvVr220924.shtml)
 
-## Get Started
+## Extra Information
 
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://wowchemy.com/updates/)
+If you are interested in Xingyiquan, you can check my youku channel, and Email me for video code. This is the link for [Wuxingquan](https://v.youku.com/v_show/id_XNDU1OTQxMzAyOA==.html) of my own. 
 
-## Crowd-funded open-source software
-
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
 
 ### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/plans/)
 
@@ -96,8 +89,3 @@ Wowchemy and its templates come with **automatic day (light) and night (dark) mo
 
 [Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
 
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
