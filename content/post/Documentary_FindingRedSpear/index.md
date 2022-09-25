@@ -31,9 +31,6 @@ featured: false
 # - Life
 # ---
 
-# ## Overview
-
-# It talks about my own study research of promote traditional martial art, Xingyiquan. In old sayings, traditional kungfu is difficult to learn by one ownself from books or videos, because it is difficult to learn the key part of one action or one gesture without Master's guidance. I always want to use data science to record the precious traditional kungfu actions, and I know that this kind of data assets is better than books or videos because it provides a higher dimension to recognize one unique thing. Motion capture is a very hot topic in ACT games developments, and it has promoted many many good games. At a certain time, I led a small project and used inertial navigation sensors to calculate the motion trajectory of the human body and put them together to identify the entire human skeleton movement. It can provide detailed information for a person's movement, and it is easy to find the difference between two people who do the same action. Fortunately, I encountered an excellent documentary director who appreciated my thoughts, so we jointly presented this excellent short documentary.
 
 
 # The documentary link is: [link](https://tv.cctv.com/2022/09/24/VIDEyBbp6YPzIPm6PHKLBvVr220924.shtml)
@@ -60,11 +57,11 @@ categories:
 
 ## Overview
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+It talks about my own study research of promote traditional martial art, Xingyiquan. In old sayings, traditional kungfu is difficult to learn by one ownself from books or videos, because it is difficult to learn the key part of one action or one gesture without Master's guidance. I always want to use data science to record the precious traditional kungfu actions, and I know that this kind of data assets is better than books or videos because it provides a higher dimension to recognize one unique thing. Motion capture is a very hot topic in ACT games developments, and it has promoted many many good games. At a certain time, I led a small project and used inertial navigation sensors to calculate the motion trajectory of the human body and put them together to identify the entire human skeleton movement. It can provide detailed information for a person's movement, and it is easy to find the difference between two people who do the same action. Fortunately, I encountered an excellent documentary director who appreciated my thoughts, so we jointly presented this excellent short documentary.
 
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+
+
+
 
 ## Get Started
 
