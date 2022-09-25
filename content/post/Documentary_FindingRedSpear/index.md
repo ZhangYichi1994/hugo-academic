@@ -20,14 +20,6 @@ draft: False
 # Show this page in the Featured widget?
 featured: false
 
-# # Featured image
-# # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-# image:
-#   caption: 'Screenshoot of the Documentary'
-#   focal_point: ""
-#   placement: 2
-#   preview_only: false
-
 # authors:
 # - admin
 
@@ -49,7 +41,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Screenshot'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -58,7 +50,7 @@ authors:
 - admin
 
 tags:
-- Academic
+- Life
 - 开源
 
 categories:
