@@ -33,10 +33,9 @@ authors:
 
 tags:
 - Life
-- 武术
 
 categories:
-- 生活
+- Life
 ---
 
 ## Overview
