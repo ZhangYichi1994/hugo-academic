@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: zndxzyc@csu.edu.cn
-  phone: XXX XXXX XXXX
+  #phone: +8618373144741
   # address:
   #   street: 450 Serra Mall
   #   city: Stanford
