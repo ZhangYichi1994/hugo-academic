@@ -15,7 +15,7 @@ date: "2020-12-13T00:00:00Z"
 lastmod: "2020-12-13T00:00:00Z"
 
 # Is this an unpublished draft?
-draft: True
+draft: False
 
 # Show this page in the Featured widget?
 featured: false
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: ' Screenshoot'
+  caption: ' Screenshoot.png'
   focal_point: ""
   placement: 2
   preview_only: false
