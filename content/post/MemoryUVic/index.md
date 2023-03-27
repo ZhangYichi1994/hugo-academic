@@ -15,7 +15,7 @@ date: "2023-03-15T00:00:00Z"
 lastmod: "2023-03-15T00:00:00Z"
 
 # Is this an unpublished draft?
-draft: True
+draft: False
 
 # Show this page in the Featured widget?
 featured: false
@@ -69,7 +69,7 @@ The cooking materials are rare in the temporary house. I had to bought some in t
 ![The house I lived for one year](./houseILived.jpg)
 Seven days later, the house owner told me that the house I rent was available. Your house is huge, my friend told me. At first I did not beleive him until I realized that the area I lived is just a small part of this house. 
 
-
+Continue...
 
 <!-- It talks about my own study research of promote traditional martial art, [Xingyiquan (形意拳）](https://baike.baidu.com/item/%E5%BD%A2%E6%84%8F%E6%8B%B3/44041#:~:text=%E5%BD%A2%E6%84%8F%E6%8B%B3%EF%BC%8C%E5%8F%88%E7%A7%B0,%E5%90%88%EF%BC%8C%E6%89%8B%E4%B8%8E%E8%B6%B3%E5%90%88%E3%80%82). In old sayings, traditional kungfu is difficult to learn by one ownself from books or videos, because it is difficult to learn the key part of one action or one gesture without Master's guidance. I always want to use data science to record the precious traditional kungfu actions, and I know that this kind of data assets is better than books or videos because it provides a higher dimension to recognize one unique thing. Motion capture is a very hot topic in ACT games developments, and it has promoted many many good games. At a certain time, I led a small project and used inertial navigation sensors to calculate the motion trajectory of the human body and put them together to identify the entire human skeleton movement. It can provide detailed information for a person's movement, and it is easy to find the difference between two people who do the same action. Fortunately, I encountered an excellent documentary director who appreciated my thoughts, so we jointly presented this excellent short documentary. -->
 
