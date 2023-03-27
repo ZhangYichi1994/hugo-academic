@@ -1,9 +1,9 @@
 ---
-title: 写在博士论文初稿完成之时
-subtitle: 写在博士论文初稿完成之时
+title: Memory of Visiting PhD Student in Canada
+subtitle: A Wonderful Experience in Uvic 
 
 # Summary for listings and search engines
-summary: The first docuimentary of myself.
+summary: Record the journal of visiting PhD student and study abroad life
 
 # Link this post with a project
 projects: []
@@ -33,7 +33,7 @@ authors:
 
 tags:
 - Life
-- 武术
+- Study abroad
 
 categories:
 - Life
