@@ -40,6 +40,7 @@ design:
   view: 1
 ---
 
+* 02 / 2023: [Preparing for the final defense of my PhD degree...](https://soa.csu.edu.cn/info/1082/6548.htm)
 * 09 / 2022: [Documentary about my own martial arts learning broadcast on CCTV9](./post/documentary_findingredspear). [To be Master for One Day (Finding red-tasselled spear)](https://tv.cctv.com/2022/09/24/VIDEyBbp6YPzIPm6PHKLBvVr220924.shtml)
 
 * 06 / 2022: Article ["Intrusion Detection of Industrial Internet-of-Things Based on Reconstructed Graph Neural Networks"](./publication/tnse_intrusiondetction) published on [IEEE TNSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902)
