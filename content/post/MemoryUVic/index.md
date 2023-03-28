@@ -84,9 +84,9 @@ There were many Professors would like to pin some interesting pictures on their 
 ![Peacock in RRU](./peacockRRU.jpg "Peacock in RRU")
 ![Deer are beside the road](./deerOnRoad.jpg "Deer beside the road")
 There were many animals in Victoria, in UVic school yard. They did not afraid of people very much, but they did not get in touch with human, too. I saw peacocks in the school yard wondering through the crowd and deer eating grass or relax beside the main street, and deer might node to me when I said "Hi" to them while I didn't know whether they understand what I said.
-<!-- 
+
 ![My lab desk](./myLabDesk.jpg "My lab desk in a new but small lab")
-Few days later, I wanted to join an IFAC industrial control competition, and I moved to another lab for discussion. This lab was small and it can only contained three people. I spent the following visiting days here. Zehua and Yanni were my two lab colleagues. Zehua was from Shanghai Jiao Tong University while Yanni was from University of Science and Technology of China. They were both really excellent talents, and I have learnt so much from them. However, just one or two months past, Zehua would come back to China. It was a pity that I had not played with him for many time.  -->
+Few days later, I wanted to join an IFAC industrial control competition, and I moved to another lab for discussion. This lab was small and it can only contained three people. I spent the following visiting days here. Zehua and Yanni were my two lab colleagues. Zehua was from Shanghai Jiao Tong University while Yanni was from University of Science and Technology of China. They were both really excellent talents, and I have learnt so much from them. However, just one or two months past, Zehua would come back to China. It was a pity that I had not played with him for many time. 
 
 <!-- ![Heavy Snow in UVic](./seaNearUs.jpg "Heavy Snow in UVic") -->
 Continue...
