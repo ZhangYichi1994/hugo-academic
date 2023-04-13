@@ -88,5 +88,19 @@ There were many animals in Victoria, in UVic school yard. They did not afraid of
 ![My lab desk](./myLabDesk.jpg "My lab desk in a new but small lab")
 Few days later, I wanted to join an IFAC industrial control competition, and I moved to another lab for discussion. This lab was small and it can only contained three people. I spent the following visiting days here. Zehua and Yanni were my two lab colleagues. Zehua was from Shanghai Jiao Tong University while Yanni was from University of Science and Technology of China. They were both really excellent talents, and I have learnt so much from them. However, just one or two months past, Zehua would come back to China. It was a pity that I had not played with him for many time. 
 
+![Interesting Posters in Uvic Bookstore Starbucks](./StarbucksPosters.jpg "Interesting Posters in Uvic Bookstore Starbucks")
+It is boring in Canada, and it is difficult to find a good tasting drink. Starbucks seems like the only choice. (I think Tim Hortons is too sweet to swallow.) This is the Starbucks store in Uvic bookstore. It is a place I may visit everyday, because I wanted to find something with flavour to eat or drink. Starbucks in North America is a very cheap brand, so much different to China. You can just cost 5-7 Canada dollars to buy a very very huge cup of coffee or other drinks. 5-7 Canada dollars means that less than 3 tins of Coca Cola. Really cheap!!! They (Starbucks) have fooled us for so long, but I truly would not choose Starbucks in China because I have so many other good taste drink choices. The poster is an interesting one I saw in Starbucks.
+
+![Canada Geese](./canadaGeese.jpg "Canada Geese")
+Canda Geese a very expensive brand of down jacket. Nearly 1000 Canada dollars for one? Maybe. I can't buy one after all. But, I can let you see what Canada Geese look like. 
+
+![Vacation in Banff](./Glacier.jpg "Vacation in Banff")
+In summer vacation, my friends and I went to the national park, Banff. The nature scene is beautiful. It is in june, but still cold there. The Columbia Glacier go back 5 meters a day, and it will disappear in 90 years (maybe, I forgot). The driver also our tour guide told us:“ It is none of my shit!”. 
+
+![buchart garden](./buchartgarden.jpg "Buchart Garden")
+The Butchart Gardens is a 119-year-old internationally-renowned 55-acre display garden located in Brentwood Bay, British Columbia. Created by Jennie Butchart, and still privately owned and operated by the family, The Gardens was designated a National Historic Site of Canada, in 2004 for its one hundredth birthday. It is built based on a mine pit. 
+
+
+
 <!-- ![Heavy Snow in UVic](./seaNearUs.jpg "Heavy Snow in UVic") -->
 Continue...

@@ -40,6 +40,7 @@ design:
   view: 1
 ---
 
+* 04 / 2023: Waiting for the final decision of blind review...
 * 03 / 2023: I have just finished the pre-defense progress, the results are good, but I still need some time to make it better...
 * 02 / 2023: [Preparing for the final defense of my PhD degree...](https://soa.csu.edu.cn/info/1082/6548.htm)
 * 09 / 2022: [Documentary about my own martial arts learning broadcast on CCTV9](./post/documentary_findingredspear). [To be Master for One Day (Finding red-tasselled spear)](https://tv.cctv.com/2022/09/24/VIDEyBbp6YPzIPm6PHKLBvVr220924.shtml)
