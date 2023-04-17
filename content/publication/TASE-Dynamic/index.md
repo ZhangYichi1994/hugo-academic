@@ -48,7 +48,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9374759'
-url_code: 'https://github.com/MrZhangCSU/ATNISD'
+url_code: 'https://github.com/ZhangYichi1994/ATNISD'
 url_dataset: ''
 url_poster: ''
 url_project: ''

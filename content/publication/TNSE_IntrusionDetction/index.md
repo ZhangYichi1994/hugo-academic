@@ -47,7 +47,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9802721'
-url_code: 'https://github.com/MrZhangCSU/GID'
+url_code: 'https://github.com/ZhangYichi1994/GID'
 url_dataset: ''
 url_poster: ''
 url_project: ''

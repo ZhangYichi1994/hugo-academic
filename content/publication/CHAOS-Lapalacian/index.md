@@ -52,7 +52,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://aip.scitation.org/doi/abs/10.1063/5.0031134'
-url_code: 'https://github.com/MrZhangCSU/VBML'
+url_code: 'https://github.com/ZhangYichi1994/VBML'
 url_dataset: ''
 url_poster: ''
 url_project: ''

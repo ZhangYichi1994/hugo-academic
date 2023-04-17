@@ -48,7 +48,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/MrZhangCSU/clustering-base-network-reconstruction'
+url_code: 'https://github.com/ZhangYichi1994/clustering-base-network-reconstruction'
 url_dataset: ''
 url_poster: ''
 url_project: ''
