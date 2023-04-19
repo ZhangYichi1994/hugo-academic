@@ -75,7 +75,7 @@ After the snow vanished, I saw the beautiful environment in Victoria. The house 
 ![The seashore I always went to](./seaNearUs.jpg "The seashore I always went to")
 My house was near the sea, it only took 5min to walk to the seashore, the daily exercise was going to the seaside and taking pictures. The sea in the cold zone is different from the sea in the tropics. There is no golden beach and no small fine sands, no people enjoy sunbathing. In addition to rocks, there are only stones on the seashore. But the water is very clear, I can see the bottom of the sea on this rock cliff.
 
-![The Large Lab in ECS](./seaNearUs.jpg "The Large Lab in ECS")
+![The Large Lab in ECS](./theFirstLab.jpg "The Large Lab in ECS")
 Few days later, I went to the Lab. This lab is just a temporary place to place students. This is my station. Not large but sufficient.
 
 ![Interesting pictures pinning on doors](./interestingPicOnDoor.jpg "Interesting pictures pinning on doors —— Education RIP")
