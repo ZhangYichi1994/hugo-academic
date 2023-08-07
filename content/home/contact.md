@@ -25,7 +25,7 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: zndxzyc@csu.edu.cn
+  email: zndxzyc@gmail.com
   #phone: +8618373144741
   # address:
   #   street: 450 Serra Mall

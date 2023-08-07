@@ -6,14 +6,12 @@ title: Yichi Zhang - 张亦弛
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Central South University & Visiting Student in University of Victoria
+role: Engineering Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Central South University
-  url: https://www.csu.edu.cn/
-- name: Uvniversity of Victoria
-  url: https://www.uvic.ca/
+- name: China Academy of Launch Vehicle Technology
+  url: http://calt.spacechina.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Cyber-Physical Systems, Complex Networks, Artificial Intelligence and Data Mining.
@@ -30,10 +28,13 @@ education:
   courses:
   - course: PhD in Control Theory and Engineering
     institution: 'Central South University, SUPV: Chunhua Yang, IEEE Fellow'
-    year: 2017-Now
+    year: 2017-2023
   - course: Visiting PhD student
     institution: 'University of Victoria, SUPV: Yang Shi, IEEE Fellow'
     year: 2021-2022
+  - course: Research Assistant
+    institution: 'School of Information Science & Engineering, Central South University'
+    year: 2016-2017
   - course: BSc in Automation
     institution: Central South University
     year: 2012-2016
@@ -73,7 +74,7 @@ email: ""
 highlight_name: true
 ---
 
-Yichi Zhang is a PhD candidate of automation at Central South University. His research interesets include Cyber-Physical Systems, Complex Networks, Artificial Intelligence, and Data Mining.
+Yichi Zhang received his Ph.D. in Control Theory and Engineering from Central South University in 2023. He is a Engineering Intelligence candidate in CALT. His research interesets include Cyber-Physical Systems, Complex Networks, Artificial Intelligence, and Data Mining.
 
 Yichi Zhang received a bachelor's degree in automation from Central South University, Changsha, China, in 2016. He is currently a PhD candidate at Central South University. 
 
