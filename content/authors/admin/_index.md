@@ -10,8 +10,8 @@ role: Engineering Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: China Academy of Launch Vehicle Technology
-  url: http://calt.spacechina.com/
+- name: CALT
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Cyber-Physical Systems, Complex Networks, Artificial Intelligence and Data Mining.

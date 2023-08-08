@@ -40,7 +40,7 @@ design:
   view: 1
 ---
 
-* 07 / 2023: Join [China Academy of Launch Vehicle Technology](http://calt.spacechina.com/) (CALT).
+* 07 / 2023: Join CALT.
 * 06 / 2023: I got my PhD degree and graduated from [Central South University](http://www.csu.edu.cn).
 * 04 / 2023: I have finished the final defence of my PhD degree.
 <!-- * 03 / 2023: I have just finished the pre-defense progress, the results are good, but I still need some time to make it better... -->
