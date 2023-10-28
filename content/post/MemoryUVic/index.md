@@ -62,12 +62,12 @@ When I got to Vancouver, I spent 5 hours to change the visa. I had to complained
 I rented a temporary house, actually, it was an attic over a garage to spend the following 2 weeks because the I house I rented for one year are not available at that time. The house owner is a white old man called Wayne, yeah, the Batman Wayne. He was really gentle and he had visited over 80 countries around the world. He told me that it was not necessary to worry about the life in the future, what I would live with are just people. Actually, he was right. I got the same conclusion when I finished the visiting life.
 
 ![First Sight of University of Victoria](./firstSightUvic.jpg "First Sight of University of Victoria")
-The cooking materials are rare in the temporary house. I had to bought some in the next day, and I first saw the milestone of University of Victoria. It is too expensive buying food in Victoria. And I found a bug, I can't use high temperature to cook Chinese because it would generate smoke and trigger the smoke alert.
+The cooking materials are rare in the temporary house. I had to bought some in the next day, and I first saw the milestone of University of Victoria. It is too expensive buying food in Victoria. And I found a bug, I can't use high temperature to cook Chinese food because it would generate smoke and trigger the smoke alert.
 
 ## Get Used to the Life in Canada
 
 ![The house I lived for one year](./houseILived.jpg "The house I lived for one year")
-Seven days later, the house owner told me that the house I rent was available. Your house is huge, my friend told me. At first I did not believe him until I realized that the area I lived is just a small part of this house.
+Seven days later, the house owner, who is the land master of the one year house I rent,told me that the house I rent was available. "Your house is huge", my friend told me. At first I did not believe him until I realized that the area I lived is just a small part of this house.
 
 ![The yard of the house I lived](./myYard.jpg "The yard of the house I lived, it is beautiful")
 After the snow vanished, I saw the beautiful environment in Victoria. The house owner told me that this is the most beautiful city in Canada, much prettier than East. He was right! I nearly got a feel of my child life in Taigu, clear sky and green grass. My friend told me that he had prepared a lot of anti-allergic drugs to alleviate the symptom of rhinitis, but after he arrived in Victoria, he noticed that these drugs were waste of money, the air is really good there.
@@ -92,7 +92,7 @@ Few days later, I wanted to join an IFAC industrial control competition, and I m
 It is boring in Canada, and it is difficult to find a good tasting drink. Starbucks seems like the only choice. (I think Tim Hortons is too sweet to swallow.) This is the Starbucks store in Uvic bookstore. It is a place I may visit everyday, because I wanted to find something with flavour to eat or drink. Starbucks in North America is a very cheap brand, so much different to China. You can just cost 5-7 Canada dollars to buy a very very huge cup of coffee or other drinks. 5-7 Canada dollars means that less than 3 tins of Coca Cola. Really cheap!!! They (Starbucks) have fooled us for so long, but I truly would not choose Starbucks in China because I have so many other good taste drink choices. The poster is an interesting one I saw in Starbucks.
 
 ![Canada Geese](./canadaGeese.jpg "Canada Geese")
-Canda Geese a very expensive brand of down jacket. Nearly 1000 Canada dollars for one? Maybe. I can't buy one after all. But, I can let you see what Canada Geese look like. 
+Canda Goose is a very expensive brand of down jacket. Nearly 1000 Canada dollars for one? Maybe. I can't buy one after all. But, I can let you see what Canada Geese look like. 
 
 ![Vacation in Banff](./Glacier.jpg "Vacation in Banff")
 In summer vacation, my friends and I went to the national park, Banff. The nature scene is beautiful. It is in june, but still cold there. The Columbia Glacier go back 5 meters a day, and it will disappear in 90 years (maybe, I forgot). The driver also our tour guide told us:“ It is none of my shit!”. 
