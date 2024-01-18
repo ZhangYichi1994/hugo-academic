@@ -40,7 +40,7 @@ design:
   view: 1
 ---
 
-* 01 / 2024: <font color=red>I noticed that this paper is marked as highly cited and hot paper on web of science, I am so excited! Although I have already left the academia for some reasons, I am still happy my work can be accepted by other researchers. This is the link of the [hot paper](https://ieeexplore.ieee.org/abstract/document/9802721).</font>
+* 01 / 2024: <font color=red>I noticed that one of my paper is marked as highly cited and hot paper on web of science, I am so excited! Although I have already left the academia for some reasons, I am still happy my work can be accepted by other researchers. This is the link of the [hot paper](https://ieeexplore.ieee.org/abstract/document/9802721).</font>
 * 07 / 2023: Join CALT.
 * 06 / 2023: I received my PhD degree and graduated from [Central South University](http://www.csu.edu.cn).
 * 04 / 2023: I have finished the final defence of my PhD degree.
